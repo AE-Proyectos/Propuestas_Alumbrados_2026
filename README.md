@@ -7,3 +7,8 @@ https://youtube.com/playlist?list=PLCQm2_dRv60UHReSDzlzDTB2P5Y2Rk9WX&si=nzJcoXgD
 
 # Tutorial para particulas interactivas
 https://miro.com/app/board/uXjVJ5A1KOs=/?moveToWidget=3458764647795806297&cot=14
+
+
+# TD con Unreal tutoriales
+https://youtu.be/PQAeUkcykVo?si=OUEZNKcu7I3VBLzW
+https://youtu.be/e_X_ehYpulk?si=HugbYNmNpssugg9T
