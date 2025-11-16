@@ -15,3 +15,6 @@ https://miro.com/app/board/uXjVJ5A1KOs=/?moveToWidget=3458764647795806297&cot=14
 https://youtu.be/PQAeUkcykVo?si=OUEZNKcu7I3VBLzW
 
 https://youtu.be/e_X_ehYpulk?si=HugbYNmNpssugg9T
+
+https://www.youtube.com/watch?v=4mmNnr1yYB0&t=192s (Presentacion)
+
