@@ -1,6 +1,8 @@
 # Propuestas_Alumbrados_2026  
 Touchdesginer y efectos visuales
 
+WIKI de ayudas TouchDesigner: https://docs.derivative.ca/Learn_TouchDesigner
+
 # Fundamentos Touchdesigner
 https://learn.derivative.ca/courses/100-fundamentals/ 
 https://youtube.com/playlist?list=PLCQm2_dRv60UHReSDzlzDTB2P5Y2Rk9WX&si=nzJcoXgD4zNa12la
